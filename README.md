@@ -1,5 +1,4 @@
 # PsiRESP
-😪-RESP
 
 | **Latest release** | [![Last release tag](https://img.shields.io/github/release-pre/lilyminium/psiresp.svg)](https://github.com/lilyminium/psiresp/releases) ![GitHub commits since latest release (by date) for a branch](https://img.shields.io/github/commits-since/lilyminium/psiresp/latest)  [![Documentation Status](https://readthedocs.org/projects/psiresp/badge/?version=latest)](https://psiresp.readthedocs.io/en/latest/?badge=latest)|
 | :------ | :------- |

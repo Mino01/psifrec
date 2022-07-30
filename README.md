@@ -1,6 +1,10 @@
 #### ToDo 
 
-The aim is to provide a software similar to **psiresp** for deriving force field parameters for a new molecule pertaining to drug discovery. 
+The aim is to provide an open source alternative for deriving force field parameters for non-standard residue e.g. pertaining to drug discovery. 
+
+
+
+
 
 
 
